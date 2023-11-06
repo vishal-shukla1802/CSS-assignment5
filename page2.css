@@ -1,0 +1,107 @@
+body {
+    background-color: yellow;
+    text-align: center;
+}
+
+.a1 {
+    text-align: center;
+}
+
+.main {
+    margin-left: 570px;
+}
+
+.box1 {
+    height: 120px;
+    width: 120px;
+    background-color: lightgreen;
+    transition: 3s;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 1s;
+}
+
+.box1:hover {
+    background-color: brown;
+    width: 300px;
+}
+
+.box2 {
+    height: 120px;
+    width: 120px;
+    background-color: lightgreen;
+    transition: 3s;
+    transition-duration: 3s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 1s;
+}
+
+.box2:hover {
+    background-color: brown;
+    height: 300px;
+    width: 300px;
+}
+
+.box3 {
+    height: 120px;
+    width: 120px;
+    background-color: lightgreen;
+    transition: 3s;
+    transition-duration: 3s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 1s;
+}
+
+.box3:hover {
+    background-color: brown;
+    width: 300px;
+}
+
+.box4 {
+    height: 120px;
+    width: 120px;
+    background-color: lightgreen;
+    transition: 3s;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 1s;
+}
+
+.box4:hover {
+    background-color: brown;
+    width: 300px;
+}
+
+.box5 {
+    height: 120px;
+    width: 120px;
+    background-color: lightgreen;
+    transition: 3s;
+    transition-duration: 1s;
+    transition-timing-function: ease-in;
+    transition-delay: 1s;
+}
+
+.box5:hover {
+    background-color: brown;
+    width: 300px;
+}
+
+.box6 {
+    height: 120px;
+    width: 120px;
+    background-color: lightgreen;
+    transition: 3s;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+    transition-delay: 1s;
+}
+
+.box6:hover {
+    background-color: brown;
+    width: 300px;
+}
+.c{
+    color: rgb(72, 72, 250);
+    text-decoration: underline;
+}
